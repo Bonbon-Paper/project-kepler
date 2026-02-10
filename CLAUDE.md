@@ -603,3 +603,32 @@ When you (or another GM Quality) operates this system:
 - [PRD - Quality Intelligence.pdf](./PRD%20-%20Quality%20Intelligence.pdf) - Complete vision and requirements
 - [How It Works](./documentation/how-it-works/) - Step-by-step workflow guides (03-09)
 - [Templates](./documentation/how-it-works/14-templates.md) - All documentation templates
+- [Document Update Guide](./DOCUMENT-UPDATE-GUIDE.md) - How to track changes to documents
+
+---
+
+## Document Updates
+
+**2026-02-10 - CLAUDE.md Restructured as Operating Manual**
+- **Updated by:** Quality Team
+- **What changed:**
+  - Restructured from conversation history to operating manual and role standard
+  - Added "GM Quality Role: Strategic Priorities" (4 clear priorities)
+  - Added "Operating Principles" (5 standards)
+  - Added "Role Standard: How to Operate" (daily/weekly/monthly/quarterly operations)
+  - Added "How to Update This System" (procedures for BU changes, Quality Scopes, etc.)
+  - Added "Decision Framework" (when to create Quality Scope, when to use AI)
+  - Clarified: CLAUDE.md is handbook (not history book)
+  - Moved conversation history to STATUS.md (Collaborative Design Process section)
+- **Why:** User feedback: "claude.md need to comprehensive the systematic or pragmatic based on what we are gonna build and what have done and not yet done from quality engineer manager perspective and it will being role standard when the other team operate build documentation and update the raw ai data in this repo"
+- **Impact:** All team members (especially GM Quality) should re-read CLAUDE.md as operating manual. This defines HOW to operate Quality Intelligence system, not HOW we built it.
+
+---
+
+**2026-02-10 - Initial CLAUDE.md Creation**
+- **Updated by:** Quality Team
+- **What changed:** Created initial project memory capturing collaborative design process, decisions made, structure chosen
+- **Why:** Establishing shared memory for Quality Intelligence system from GM Quality perspective
+- **Impact:** Foundation for all subsequent Quality Intelligence work
+
+---
